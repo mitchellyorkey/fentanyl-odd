@@ -1,2 +1,10 @@
 Requirements text file:
-Requirements for replicating analysis 
+libs:
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyterlab
+requests
+openpyxl
